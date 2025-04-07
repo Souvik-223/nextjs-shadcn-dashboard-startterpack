@@ -92,7 +92,7 @@ src/
 Clone the repo:
 
 ```
-git clone https://github.com/souvik-223/next-shadcn-dashboard-starter.git
+git clone https://github.com/Souvik-223/nextjs-shadcn-dashboard-startterpack.git
 ```
 
 - `pnpm install` ( we have legacy-peer-deps=true added in the .npmrc)
